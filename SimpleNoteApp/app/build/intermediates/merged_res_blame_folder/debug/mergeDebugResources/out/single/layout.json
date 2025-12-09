@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.simplenote.app-mergeDebugResources-31:/layout/activity_stats.xml",
+        "source": "com.example.simplenote.app-main-34:/layout/activity_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\new\\.gradle\\daemon\\9.0-milestone-1\\com.example.simplenote.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\new\\.gradle\\daemon\\9.0-milestone-1\\com.example.simplenote.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\new\\.gradle\\daemon\\9.0-milestone-1\\com.example.simplenote.app-mergeDebugResources-31:\\layout\\activity_edit_note.xml",
+        "source": "C:\\Users\\new\\.gradle\\daemon\\9.0-milestone-1\\com.example.simplenote.app-main-34:\\layout\\activity_edit_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\new\\.gradle\\daemon\\9.0-milestone-1\\com.example.simplenote.app-mergeDebugResources-31:\\layout\\item_note.xml",
+        "source": "C:\\Users\\new\\.gradle\\daemon\\9.0-milestone-1\\com.example.simplenote.app-main-34:\\layout\\item_note.xml"
+    },
+    {
+        "merged": "com.example.simplenote.app-mergeDebugResources-31:/layout/activity_settings.xml",
+        "source": "com.example.simplenote.app-main-34:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\new\\.gradle\\daemon\\9.0-milestone-1\\com.example.simplenote.app-mergeDebugResources-31:\\layout\\activity_about.xml",
+        "source": "C:\\Users\\new\\.gradle\\daemon\\9.0-milestone-1\\com.example.simplenote.app-main-34:\\layout\\activity_about.xml"
+    }
+]
