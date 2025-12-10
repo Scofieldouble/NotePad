@@ -14,7 +14,7 @@
     - 智能提醒：为笔记设置时间提醒
     - 便签模式：快速创建桌面便签
 - **数据与设置模块**：本地数据存储、用户偏好设置管理
-- 主界面：`Homepage.png`
+- ![主页面](运行结果截图/Homepage.png)
 
 
 ### 用户需求分析
@@ -124,8 +124,8 @@ List<User> users = loadUsers(context);
 **效果展示**：  
 用户首次启动进入注册界面 → 注册成功 → 登录 → 进入主界面（笔记数据绑定账户）
 **截图展示**：
-- 登录界面：`login_activity.png`
-- 注册界面：`register_activity.png`
+- ![登录界面](运行结果截图/login_activity.png)
+- ![注册页面](运行结果截图/register_activity.png)
 
 ---
 
@@ -250,8 +250,8 @@ return;
 拍照/相册导入图片 → 自动提取文字 → 生成可编辑笔记草稿
 
 **截图展示**：
-- OCR图片选择：`ocr_selection.png`
-- 文字识别结果：`ocr_result_preview.png`
+- ![OCR图片选择](运行结果截图/ocr_selection.png)
+- ![文字识别结果](运行结果截图/ocr_result_preview.png)
 
 ---
 
@@ -362,8 +362,8 @@ btnStart.setText("停止");
 点击麦克风 → 说出关键词 → 实时显示匹配笔记列表
 
 **截图展示**：
-- 语音搜索界面：`voice_search_activity.png`
-- 搜索结果：`voice_search_result.png`
+- ![语音搜索页面](运行结果截图/voice_search_activity.png)
+- ![搜索结果](运行结果截图/voice_search_result.png)
 
 ---
 
@@ -427,9 +427,9 @@ private static final String ACTION_REMINDER = "com.example.notepad.REMINDER";
 编辑界面设提醒 → 到达时间推送通知｜便签界面快速输入保存
 
 **截图展示**：
-- 设置界面：`set_reminder_dialog.png`
-- 桌面便签：`sticky_note_activity.png`
-- 文件排序功能：`document ordering system.png`
+- ![设置页面](运行结果截图/voice_search_result.png)
+- ![桌面便签](运行结果截图/sticky_note_activity.png)
+- ![文件排序功能](运行结果截图/document_ordering_system.png)
 
 ---
 
@@ -444,7 +444,7 @@ private static final String ACTION_REMINDER = "com.example.notepad.REMINDER";
 **效果展示**：  
 设置界面点击"备份/恢复" → 操作后显示提示
 **截图展示**：
-- 备份与恢复设置：`backup_restore_settings.png`
+- ![备份与恢复设置](运行结果截图/backup_restore_settings.png)
 
 ---
 
